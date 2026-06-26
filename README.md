@@ -1,3 +1,4 @@
+![Cover](https://github.com/coyote385/Banner.ppg)
 <h1 align="center">Hola, soy Jonathan Mendez 👋</h1>
 
 <p align="center">
